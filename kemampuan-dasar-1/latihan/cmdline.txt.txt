@@ -1,0 +1,64 @@
+1. date
+menampilkan atau mengatur waktu pada sistem
+contoh: date /t (menampilkan waktu pada sistem)
+
+2. cd
+menampilkan atau mengubah direktori saat ini
+contoh: cd e: (menampilkan direktori saat ini)
+
+3. cls
+menghapus log command prompt saat ini
+
+4. copy
+menyalin satu atau lebih file 
+contoh: copy memo.doc letter.doc /a (menyalin memo.doc dan letter.doc ke direktori /a)
+
+5. echo
+mengatur pengaturan untuk menampilkan atau tidak menampilkan command pada command prompt
+contoh: echo on (menghidupkan pengaturan untuk menampilkan command)
+
+6. help 
+menampilkan command pada sistem
+
+7. ipconfig
+menampilkan semua konfigurasi jaringan dan me-refresh DHCP
+
+8. ping
+menampilkan tingkat koneksi pada alamat yang dituju
+contoh: ping google.com (menampilkan tingkat koneksi pada google)
+
+9. color
+mengubah warna pada command prompt
+
+10. del
+menghapus satu atau lebih file
+
+11. dir
+menampilkandaftar file dan folder
+
+12. diruse
+menampilkan penggunaan disk
+
+13. find
+mencaristring teks dalam dalam sebuah file
+
+14. format
+menghapus seluruh file pada direktori yang dituju
+
+15. kill 
+mematikan paksa program yang dituju
+
+16. print
+mencetak file teks
+
+17. replace
+mengganti suatu file dengan file yang lain
+
+18. start 
+memulai sebuah program atau perintah
+
+19. taskkill
+menghapus semua proses yang berjalan
+
+20. label
+mengedit nama disk/direktori
